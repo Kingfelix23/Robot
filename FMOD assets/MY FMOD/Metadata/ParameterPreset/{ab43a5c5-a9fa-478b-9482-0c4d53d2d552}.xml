@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{ab43a5c5-a9fa-478b-9482-0c4d53d2d552}">
+		<property name="name">
+			<value>AmbixChange</value>
+		</property>
+		<relationship name="folder">
+			<destination>{405f54fb-e6ff-4029-9b2c-84dc400aeacf}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{626bd546-f41a-4287-af68-c066ebd6215a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{626bd546-f41a-4287-af68-c066ebd6215a}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="velocity">
+			<value>0.059999998658895493</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.079999998211860657</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
